@@ -1,4 +1,4 @@
-# My First CI/CD Project
+# CI/CD With GitHub Actions (CI) and Vercel (CD)
 
 This is a simple Node.js web application built with Express, demonstrating a CI/CD pipeline using GitHub Actions. The app displays "Hello, CI/CD!" when visited. The pipeline automatically tests the code and deploys it to Vercel whenever changes are pushed to the `main` branch.
 
